@@ -1,7 +1,7 @@
 {
   "name": "cvmjpe",
   "version": "0.1.0",
-  "homepage": "https://fernandopdea.github.io/my-playlist-music",
+  "homepage": "https://fernandopdea.github.io/play-list-music",
   "private": true,
   "dependencies": {
     "@redux-devtools/extension": "^3.2.3",
