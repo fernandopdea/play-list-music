@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.seiya-background {
+  align-items: center;
+  background-image: url('https://content-assets.betrybe.com/prod/92881171-a5c8-4bb2-9f10-05ed823dd61e-cdz-background.jpeg');
+  background-size: cover;
+  flex-direction: column;
+  display: flex;
+  height: 100vh;
+  width: 100%;
+  justify-content: center;
+}
+
+.help {
+  width: 100vw;
+}
+
+h1 {
+  color: white;
+}
+
+img {
+  border-radius: 15px;
+  width: 80%;
+  height: 400px;
+}
+
+.important {
+  color: white;
+  font-size: xx-large;
+  font-weight: 700;
+  width: 70vw;
+}
+
+p {
+  color: black;
+  font-size: large;
+  font-weight: 700;
+  text-align: center;
+  width: 80%;
+}
+
+span {
+  color: white;
+  font-size: large;
+  font-weight: 700;
+  text-align: center;
+  margin-right: 10px;
+  display: none;
+}
+
+iframe {
+  margin: 20px;
+}
+
+button {
+  padding: 10px
+}
+
+@media screen and (max-width: 600px) {
+  .important {
+    font-size: x-large;
+  }
+  .help {
+    width: 100%;
+  }
+  img {
+    width: 90%;
+    margin-top: 100px;
+  }
+  p {
+    width: 100%;
+    font-size: 10px;
+  }
+ .seiya-background {
+    height: 100%;
+    padding: 20px 0;
+  }
+}
