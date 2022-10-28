@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/play-list-music/static/css/main.c5243ce9.css",
+    "main.js": "/play-list-music/static/js/main.3ce890f5.js",
+    "static/media/image-music.png": "/play-list-music/static/media/image-music.024fb5d55ee84d1fda5f.png",
+    "index.html": "/play-list-music/index.html",
+    "main.c5243ce9.css.map": "/play-list-music/static/css/main.c5243ce9.css.map",
+    "main.3ce890f5.js.map": "/play-list-music/static/js/main.3ce890f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5243ce9.css",
+    "static/js/main.3ce890f5.js"
+  ]
+}
